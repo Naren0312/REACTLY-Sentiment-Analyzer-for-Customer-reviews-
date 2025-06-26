@@ -1,1 +1,1 @@
-# REACTLY-Sentiment-Analyzer-for-Customer-reviews-
+# REACTLY-Sentiment-Analyzer-for Customer reviews
